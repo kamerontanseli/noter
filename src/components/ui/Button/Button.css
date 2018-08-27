@@ -1,0 +1,26 @@
+.Button {
+  text-decoration: none;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 2px solid #000;
+  transition: background-color .2s ease;
+  background-color: #fff;
+  font-size: 11px;
+}
+
+.Button:hover {
+  background-color: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.Button-primary {
+  background-color: #000;
+  color: #fff;
+}
+
+.Button-primary:hover {
+  background-color: #fff;
+  color: #000;
+}

@@ -1,0 +1,11 @@
+.Header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.Header-title {
+  flex-grow: 1;
+  margin: 0;
+  font-size: 30px;
+}

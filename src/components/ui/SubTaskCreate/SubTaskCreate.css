@@ -1,0 +1,10 @@
+.SubTaskCreate {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.SubTaskCreate-input {
+  flex-grow: 1;
+  margin-right: 10px;
+}

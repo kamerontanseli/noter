@@ -1,0 +1,14 @@
+.SubTaskInput {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.SubTaskInput-checkbox {
+  margin-right: 10px;
+}
+
+.SubTaskInput-input {
+  margin-right: 10px;
+  flex-grow: 1;
+}

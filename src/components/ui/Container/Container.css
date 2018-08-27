@@ -1,0 +1,10 @@
+.Container {
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 480px) {
+  .Container {
+    width: 480px;
+  }
+}
